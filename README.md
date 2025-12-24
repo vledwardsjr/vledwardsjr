@@ -1,16 +1,23 @@
-## Hi there 👋
+# Vaughn Edwards
 
-<!--
-**vledwardsjr/vledwardsjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at James Madison University with interests in
+software development and data analytics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### TrackFlow — Playlist Manager
+Custom playlist management system with add/remove/traversal logic.
+**Tech:** Java, Data Structures  
+🔗 https://github.com/vledwardsjr/TrackFlow
+
+### Chernobyl Fishing sim
+Inventory-driven game with progression and probability systems.
+**Tech:** JavaScript, Game Logic  
+🔗 https://github.com/vledwardsjr/FishingSimulator
+
+### Job Salary Analytics Dashboard
+Analysis of real job postings to visualize salary trends.
+**Tech:** SQL, Excel, Power BI  
+🔗 https://github.com/vledwardsjr/JobSalaryAnalytics

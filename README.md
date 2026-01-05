@@ -24,5 +24,5 @@ Analysis of real job postings to visualize salary trends.
 
 ## NYC Jobs Analytics Dashboard
 Analysis of job postings within NYC to visualize job market demands, compensation trends, and employment type & stability.
-**Tech: ** Excel (power query, pivot tables, pivot charts)
+**Tech:** Excel (power query, pivot tables, pivot charts)
 🔗 https://github.com/vledwardsjr/nyc-jobs-excel-dashboard

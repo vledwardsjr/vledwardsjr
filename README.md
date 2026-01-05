@@ -21,3 +21,8 @@ Inventory-driven game with progression and probability systems.
 Analysis of real job postings to visualize salary trends.
 **Tech:** SQL, Excel, Power BI  
 🔗 https://github.com/vledwardsjr/JobSalaryAnalytics
+
+##NYC Jobs Analytics Dashboard
+Analysis of job postings within NYC to visualize job market demands, compensation trends, and emplyment type & stability.
+**Tech: ** Excel (power query, pivot tables, pivot charts)
+🔗 https://github.com/vledwardsjr/nyc-jobs-excel-dashboard

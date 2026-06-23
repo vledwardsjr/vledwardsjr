@@ -11,7 +11,7 @@ Data Analytics and Data Science.
 
 ### Job Salary Analytics Dashboard
 Analysis of real job postings to visualize salary trends.
-**Tech:** SQL, Excel, Power BI  
+**Tech:** SQL, Excel 
 🔗 https://github.com/vledwardsjr/JobSalaryAnalytics
 
 ## NYC Jobs Analytics Dashboard

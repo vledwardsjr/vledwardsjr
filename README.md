@@ -9,7 +9,7 @@ Data Analytics and Data Science.
 
 
 
-### Job Salary Analytics Dashboard
+## Job Salary Analytics Dashboard
 Analysis of real job postings to visualize salary trends.
 **Tech:** SQL, Excel 
 🔗 https://github.com/vledwardsjr/JobSalaryAnalytics

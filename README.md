@@ -27,3 +27,11 @@ Analysis of job postings within NYC to visualize job market demands, compensatio
 **Tech:** Excel (power query, pivot tables, pivot charts)  
 
 🔗 https://github.com/vledwardsjr/nyc-jobs-excel-dashboard
+
+**Intel Data Center Energy Analytics**
+
+Tableau analysis of U.S. regional energy supply and demand, used to recommend where Intel should site its next data center based on energy surplus, grid stability, and renewable energy mix.
+
+**Tech:** Tableau
+
+🔗 https://github.com/vledwardsjr/Intel-Data-Center-Energy-Analytics

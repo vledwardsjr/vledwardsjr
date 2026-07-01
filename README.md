@@ -5,6 +5,10 @@ Data Analytics and Data Science.
 
 ---
 
+## Personal Portfolio
+
+🔗 https://vledwardsjr.github.io/
+
 ## Featured Projects
 
 ## NBA Award Analytics Engine
